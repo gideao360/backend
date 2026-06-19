@@ -11,4 +11,3 @@ if(podeVotar(idade)){
     console.log('Calmae desesperado por votar, espere a próxima eleição')
 }
 
-12
